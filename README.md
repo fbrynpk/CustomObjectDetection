@@ -1,2 +1,2 @@
-# SignLanguageDetection
- A simple open project to detect basic sign language gestures
+# CustomObjectDetection
+ Using TensorFlow Object Detection API and Custom Dataset to create our own object detection model
